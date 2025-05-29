@@ -1,4 +1,3 @@
-package o3_monoalfa;
 
 import java.util.*;
 
